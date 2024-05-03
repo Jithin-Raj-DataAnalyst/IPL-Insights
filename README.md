@@ -4,16 +4,21 @@ Dashboard Link: https://app.powerbi.com/groups/me/reports/54306c8a-b3e7-4c46-8d9
 
 ## Problem Statement
 
-The sports blog company "SPorts Basics" decided to release a special edition magazine on behalf of IPL 2024. To appease the audience, this magazine aims to generate interesting insights and facts from the last 3 seasons of IPL data.
+The sports blog company "Sports Basics" decided to release a special edition magazine on behalf of IPL 2024. To appease the audience, this magazine aims to generate interesting insights and facts from the last 3 seasons of IPL data.
 
 ## Tool(s) used
 - Power BI
 - SQL
-  ![image](https://github.com/jithinrb995/IPL-Analysis/assets/133872499/923251da-1584-4364-bd04-1255e1b2162b)
+- Excel
+ 
 
 
 ## Key Features
-The dashboard consists of three pages. 
+The dashboard consists of a home page following three dashboard pages. 
+- Home
+
+ ![image](https://github.com/jithinrb995/IPL-Analysis/assets/133872499/923251da-1584-4364-bd04-1255e1b2162b)
+  
 - Player Information: 
   The first page contains the information of each player in detail. An elaborate scorecard is also included on this page. Cards of champions team, orange and purple cap players are also displayed here. A slicer is also there to select the respective seasons.
 
